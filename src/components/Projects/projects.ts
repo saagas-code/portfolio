@@ -7,18 +7,24 @@ const projects = [
   },
   {
     id: 2,
+    url: 'https://github.com/saagas-code/nextjs-facebook-clone',
+    img: '/projects/facebook.png',
+    title: 'Facebook Clone',
+  },
+  {
+    id: 3,
     url: 'https://github.com/saagas-code/react-devsfood',
     img: '/projects/devfood.png',
     title: 'DevFood',
   },
   {
-    id: 3,
+    id: 4,
     url: 'https://github.com/saagas-code/react-olx-clone',
     img: '/projects/olx.png',
     title: 'Olx Clone',
   },
   {
-    id: 4,
+    id: 5,
     url: 'https://github.com/saagas-code/ReactJS-todoList',
     img: '/projects/todolist.png',
     title: 'Todo List',
