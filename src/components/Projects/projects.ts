@@ -2,8 +2,14 @@ const projects = [
   {
     id: 1,
     url: 'https://github.com/saagas-code/portfolio',
-    img: '/projects/portfolio.png',
+    img: '/projects/sharenergy.png',
     title: 'Portfólio',
+  },
+  {
+    id: 6,
+    url: 'https://github.com/saagas-code/sharenergy-react-node',
+    img: '/projects/portfolio.png',
+    title: 'Dashboard Sharenergy',
   },
   {
     id: 2,
