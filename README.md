@@ -28,7 +28,7 @@
       <a href="https://github.com/saagas-code">
         <img src="https://avatars.githubusercontent.com/u/104795182?v=4" width="100px;" /><br>
         <sub>
-          <b>Evander Inácio</b>
+          <b>Matheus Almeida</b>
         </sub>
       </a>
     </td>
